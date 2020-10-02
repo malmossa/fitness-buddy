@@ -33,7 +33,7 @@ Try the app live at: [https://fb.mansoralmossa.com/](https://fb.mansoralmossa.co
 ### Getting Started
 1. Clone the repository : 
       ``` 
-      git clone https://github.com/malmossa/watch-store.git 
+      git clone https://github.com/malmossa/fitness-buddy.git 
       ```     
 2. Install npm dependencies : 
       ``` 
