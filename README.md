@@ -1,8 +1,8 @@
-# Watch Store
-A full stack e-commerce website with dummy data.
+# Fitness Buddy
+A full stack fitness tracking app.
 
 ## Live Demo
-Try the website live at: [https://ws.mansoralmossa.com/](https://ws.mansoralmossa.com)
+Try the app live at: [https://fb.mansoralmossa.com/](https://fb.mansoralmossa.com)
 
 ## Technologies Used
 * HTML5
@@ -15,14 +15,13 @@ Try the website live at: [https://ws.mansoralmossa.com/](https://ws.mansoralmoss
 * AWS EC2
 
 ## Features
-* User can view the products
-* User can view product details
-* User can add a product to their cart
-* User can view their cart summary
-* User can place an order
+* User can view exercises
+* User can add exercise
+* User can update or delete exercise
+* User can check the calories by entering some informations 
 
 ## Preview
-![screen shot of the web site](server/public/images/watch-store.gif)
+![screen shot of the web site](server/public/images/fitness-boddy-screen-shot.gif)
 
 ## Development
 
